@@ -1,4 +1,4 @@
-#include "cmake-build-debug/myParser.h"
+#include "myParser.h"
 
 double prevResults[10];
 int count = 0;
